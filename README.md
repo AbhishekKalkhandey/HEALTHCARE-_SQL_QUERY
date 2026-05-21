@@ -245,4 +245,4 @@ Abhishek Kalkhandey
 
 Aspiring Healthcare Data Analyst | SQL | Power BI | Python
 
-Dashborad ScreanShot -https://drive.google.com/file/d/11SyPbgHA6YBbtwLChBTEo6PFz1aRt7xR/view?usp=sharing
+Dashborad ScreenShot -https://drive.google.com/file/d/11SyPbgHA6YBbtwLChBTEo6PFz1aRt7xR/view?usp=sharing
